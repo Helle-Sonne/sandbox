@@ -11,6 +11,7 @@
     "ext-mbstring": "*",
     "ext-pdo": "*",
     "aura/router": "^3.1",
+    "f16inkin/vulpix": "^1.0",
     "firebase/php-jwt": "^5.2",
     "laminas/laminas-diactoros": "^2.2",
     "laminas/laminas-httphandlerrunner": "^1.1",
